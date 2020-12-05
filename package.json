@@ -1,0 +1,26 @@
+{
+  "name": "git-react-redux-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "devDependencies": {
+    "clean": "^4.0.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "less-loader": "^7.1.0",
+    "style-loader": "^2.0.0",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-plugin": "^1.0.5"
+  }
+}
